@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+.section {
+  padding: 40px;
+  max-width: 900px;
+  margin: auto;
+  font-family: Arial;
+}

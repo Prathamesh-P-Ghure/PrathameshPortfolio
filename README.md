@@ -1,10 +1,6 @@
-🎨 Personal Portfolio Website – React Project
+🔹 Overview
 
-This is a personal portfolio website built using React.
-It includes pages like About, Projects, Skills, Resume, and Contact, along with navigation and routing.
-
-🚀 Features
-✔ Multiple Pages
+This is my personal portfolio website built using React. It contains the following sections:
 
 About Me
 
@@ -16,41 +12,52 @@ Resume
 
 Contact
 
-✔ React Router for Navigation
+🔹 Features
 
-Used BrowserRouter, Routes, Route, and Link for smooth page navigation.
+React Router v6 for navigation
 
-✔ Lazy Loading (Performance Optimization)
+Lazy loading for components
 
-All pages are lazy-loaded using React.lazy() and Suspense to improve performance.
+Fully responsive
 
-✔ Responsive Design
+Deployed on Vercel
 
-Basic responsive layout using simple CSS.
+Clean and simple UI
 
-✔ Ready for Deployment
+🔹 Live Demo
 
-Optimized for production build and hosting on Netlify / Vercel / GitHub Pages.
+👉 https://prathamesh-portfolio-phi.vercel.app/
 
-📂 Folder Structure
-src/
- ├── App.js
- ├── App.css
- ├── Navbar.js
- ├── About.js
- ├── Projects.js
- ├── Skills.js
- ├── Resume.js
- ├── Contact.js
- ├── index.js
- └── Navbar.css
+🔹 GitHub Repository
 
-⚙️ Technologies Used
+👉 :- https://github.com/Prathamesh-P-Ghure/PrathameshPortfolio
 
-React
+🔹 Technologies Used
+
+React.js
+
+JavaScript
+
+CSS
 
 React Router
 
-React Lazy Loading (Suspense)
+Vercel Hosting
 
-CSS
+🔹 Deployment Steps
+
+Created production build using npm run build
+
+Pushed code to GitHub
+
+Connected GitHub repo to Vercel
+
+Deployed project
+
+Verified deployment across devices and browsers
+
+🔹 Challenges Faced & Solutions
+
+Lazy loading setup → solved using React.lazy() and Suspense
+
+Responsive navbar issues → fixed using CSS flexbox
